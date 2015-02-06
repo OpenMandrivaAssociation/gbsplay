@@ -1,7 +1,7 @@
 Summary:	Gameboy Music Player
 Name:		gbsplay
 Version:	0.0.91
-Release:	3
+Release:	4
 License:	GPL
 Group:		Sound
 URL:		http://www.cgarbs.de/gbsplay.en.html
