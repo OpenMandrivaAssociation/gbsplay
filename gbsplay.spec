@@ -4,7 +4,7 @@ Version:	0.0.91
 Release:	4
 License:	GPL
 Group:		Sound
-URL:		http://www.cgarbs.de/gbsplay.en.html
+URL:		https://www.cgarbs.de/gbsplay.en.html
 Source0:	http://www.cgarbs.de/stuff/%{name}-%{version}.tar.gz
 BuildRequires:	nas-devel
 BuildRequires:	pkgconfig(glib-2.0)
